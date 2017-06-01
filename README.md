@@ -11,7 +11,7 @@
 ![스크린 이미지](screenshot.png)
 
 - 동영상  
-[![동영상](http://img.youtube.com/vi/Lj3j-diKADo/0.jpg)](https://youtu.be/Lj3j-diKADo&t=0s)
+[![동영상](http://img.youtube.com/vi/Lj3j-diKADo/0.jpg)](https://www.youtube.com/watch?v=Lj3j-diKADo&t=2s)
 
 - 다운로드  
 [구글 플레이스토어](https://play.google.com/store/apps/details?id=com.seoul.culture)
